@@ -1,23 +1,14 @@
-## Hello World C Program
-
-My first C program created for GitHub.
-
-# How to Compile and Run
-
+# Hello-world-c
+My first C program
+## How to compile and run
 gcc hello.c -o hello
 ./hello
-
-
-#Student Name
+## Student
 Ananya Singh
 
+## Collaboration Log
 
-##Collaboration Log
-Partner: Amrita Jyoti
-
-GitHub Username: Amrita200626
-
-We worked together using Live Share and added the greet()
-function to the Hello World program.
-I learned how GitLens can show who changed a particular
-line of code and when it was changed.
+- **Pairing Partner:**Amrita Jyoti
+- **GitHub Username:** Amrita200626
+- **What we built:** Added a `greet()` function to the Hello World C program.
+- **What I learned:** I learned how GitLens shows commit history and line-by-line authorship, and how Live Share allows two people to collaborate in VS Code.
