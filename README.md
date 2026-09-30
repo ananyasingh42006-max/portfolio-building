@@ -6,10 +6,13 @@ My first C program created for GitHub.
 
 gcc hello.c -o hello
 ./hello
+
+
 #Student Name
 Ananya Singh
-##Collaboration Log
 
+
+##Collaboration Log
 Partner: Amrita Jyoti
 
 GitHub Username: Amrita200626
