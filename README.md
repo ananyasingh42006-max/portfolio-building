@@ -1,11 +1,14 @@
-Hello World C Program
+## Hello World C Program
+
 My first C program created for GitHub.
-How to Compile and Run
+
+# How to Compile and Run
+
 gcc hello.c -o hello
 ./hello
 #Student Name
 Ananya Singh
-## Collaboration Log
+##Collaboration Log
 
 Partner: Amrita Jyoti
 
